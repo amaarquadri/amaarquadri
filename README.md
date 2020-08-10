@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Mechanical Engineering student at the University of Waterloo. I'm experienced with SolidWorks (CSWP), Finite Element Analysis, and GD&T. I also have extensive programming experience in various languages including Python, Java, and C++. I have a passion for using all of my skills for designing mechanical devices from the ground up!
+
+Check out my personal website (which I coded myself!): amaarquadri.com
+Check out my LinkedIn profile: linkedin.com/in/amaarquadri
