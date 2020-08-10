@@ -19,3 +19,5 @@ I'm a Mechanical Engineering student at the University of Waterloo. I'm experien
 Check out my [personal website](https://www.amaarquadri.com) (which I coded myself!)
 
 Check out my [LinkedIn profile](https://www.linkedin.com/in/amaarquadri)
+
+Play against my [Connect 4 AI](https://www.amaarquadri.com/play?game=connect4&difficulty=medium&ai-time=1&log-stats=true)
