@@ -6,4 +6,8 @@ Check out my [personal website](https://www.amaarquadri.com) (which I coded and 
 
 Check out my [LinkedIn profile](https://www.linkedin.com/in/amaarquadri)
 
-Play against my [Connect 4 AI](https://www.amaarquadri.com/play?game=connect4&difficulty=medium&ai-time=1&log-stats=true) (which I trained from scratch using self-play reinforcement learning!)
+Learn about how I trained AI systems to play Connect 4, Othello, Amazons and other boards games using [self-play reinforcement learning!](https://github.com/amaarquadri/PerfectInformationGame)
+
+Play against my Connect 4 AI: [Easy](https://www.amaarquadri.com/play?game=connect4&difficulty=easy&ai-time=1&log-stats=true), [Medium](https://www.amaarquadri.com/play?game=connect4&difficulty=medium&ai-time=1&log-stats=true), [Hard](https://www.amaarquadri.com/play?game=connect4&difficulty=hard&ai-time=1&log-stats=true)
+
+Learn about how I created a control system to balance an [inverted pendulum on a cart](https://github.com/amaarquadri/ME360)
