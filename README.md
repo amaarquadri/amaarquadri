@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Mechanical Engineering student at the University of Waterloo. I'm experienced with SolidWorks (CSWE), Finite Element Analysis, and GD&T. I also have extensive programming experience in various languages including Python and C++. I have a passion for using all of my skills for designing mechanical devices from the ground up!
+I'm a Master of Science in Robotic Systems Development (MRSD) student at Carnegie Mellon University. I'm experienced with mechanical design, design for manufacturing, and project management. I also have extensive programming experience in C++, Python, and MATLAB. I have a passion for using all of my skills for designing robotic systems from the ground up! I'm currently looking for a summer 2024 internship.
 
 Check out my [personal website](https://www.amaarquadri.com) (which I coded and deployed myself!)
 
